@@ -1,4 +1,3 @@
-# Simple Serial Example
 
 Create an Android project
 
